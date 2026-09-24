@@ -1,9 +1,12 @@
 {
   "name": "masa-api-test",
   "version": "1.0.0",
-  "description": "Masa1ho API test server",
+  "description": "Masa KRA API proxy test server",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
